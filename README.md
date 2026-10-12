@@ -110,7 +110,7 @@ To set up the project, follow these steps:
 1. **Clone the repository**:
 ```bash
 git clone git remote add origin https://github.com/RafiaTariq123/restful-booker-api-automation.git
-cd rest-assured-restful-booker-tests
+cd rest-assured-restful-booker-tests-main
 ```
 
 2. **Open the project in your preferred Java IDE** (e.g., Visual Studio Code, IntelliJ, Eclipse).
